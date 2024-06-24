@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "start": "python app.py"
-  },
-  "dependencies": {
-    "flask": "^2.0.0"
-  }
-}
